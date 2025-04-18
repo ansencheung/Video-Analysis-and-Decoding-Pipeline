@@ -12,7 +12,7 @@ This project introduces a novel methodology for classifying cognitive states of 
 
 The full data analysis pipeline is shown in the figure below:
 
-![Pipeline Figure](./Screenshot%202025-04-18%20at%2011.27.30%E2%80%AFAM.png)
+![Pipeline Figure](PipelineFigure.png)
 
 1. **DeepLabCut (DLC)**:
    - 2D pose estimation from synchronized left and right camera footage.
