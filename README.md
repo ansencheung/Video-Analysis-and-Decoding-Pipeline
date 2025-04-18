@@ -83,7 +83,7 @@ If you use this pipeline, please cite:
 
 ## 🧠 Acknowledgments
 
-- Vanderbilt University
+- Vanderbilt University, Attention Circuit Control Lab led by Dr. Womelsdorf
 - DeepLabCut by Mathis et al. (2018)  
 - Camera hardware by White Matter LLC
 
